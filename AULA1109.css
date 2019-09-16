@@ -1,0 +1,40 @@
+h1.titulo1{
+  color: rgb(114, 89, 138);
+}
+.nome{
+   font-size: 30px;
+   color:rgb(65, 114, 65);
+}
+ 
+body {
+   background-color: antiquewhite;
+}
+h1 {
+   background-color: rgb(172, 87, 144)
+}
+div {
+   border: 10px solid peru;
+   width: 1000px;
+   height:100px;
+}
+ 
+div.div3 {
+   background:rgb(160, 29, 165);
+   display: inline;
+}
+ 
+div{
+   border: 10px solid rgb(68, 53, 37);
+   width: 1000px;
+   height:100px;
+}
+ 
+div.div1{
+   background-color: rgb(156, 103, 84);
+   display: inline-block;
+}
+
+#menulist {
+    margin: 3;
+    padding: 2;
+}
